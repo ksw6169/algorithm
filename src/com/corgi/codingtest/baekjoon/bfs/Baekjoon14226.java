@@ -1,4 +1,4 @@
-package com.corgi.codingtest.baekjoon.bfs.baekjoon14226;
+package com.corgi.codingtest.baekjoon.bfs;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -8,7 +8,7 @@ import java.util.*;
  * [BAEKJOON-14226] 이모티콘
  * reference: https://www.acmicpc.net/problem/14226
  */
-public class Main {
+public class Baekjoon14226 {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

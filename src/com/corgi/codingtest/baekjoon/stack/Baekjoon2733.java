@@ -6,6 +6,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
+/**
+ * [BAEKJOON-2733] Brainf*ck
+ * reference: https://www.acmicpc.net/problem/2733
+ */
 public class Baekjoon2733 {
 
     private static int pointer;
