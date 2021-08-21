@@ -97,5 +97,5 @@ int main(void) {
 
 ## 참고 자료
 
-- [15. 너비 우선 탐색(BFS)ㅣ안경잡이개발자]([https://blog.naver.com/ndb796/221230944971](https://blog.naver.com/ndb796/221230944971))
-- [16강 - 너비 우선 탐색(Breadth First Search) [실전 알고리즘 강좌]ㅣ동빈나]([https://www.youtube.com/watch?v=66ZKz-FktXo&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=16](https://www.youtube.com/watch?v=66ZKz-FktXo&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=16))
+- [15. 너비 우선 탐색(BFS)ㅣ안경잡이개발자](https://blog.naver.com/ndb796/221230944971)
+- [16강 - 너비 우선 탐색(Breadth First Search)ㅣ동빈나](https://www.youtube.com/watch?v=66ZKz-FktXo&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=16)
